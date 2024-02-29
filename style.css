@@ -5,9 +5,17 @@ body {
   background-color: #352f44 !important;
   color: #faf0e6 !important;
 }
-h1{
-    color: #352f44;
-    font-weight: 600;
+h1 {
+  color: #352f44;
+  font-weight: 600;
+}
+a {
+  color: #faf0e6 !important;
+}
+.img-ct {
+  display: flex;
+  width: 30px !important;
+  height: 30px !important;
 }
 .heading {
   background-color: #b9b4c7 !important;
