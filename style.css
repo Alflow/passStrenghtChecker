@@ -5,6 +5,10 @@ body {
   background-color: #352f44 !important;
   color: #faf0e6 !important;
 }
+h1{
+    color: #352f44;
+    font-weight: 600;
+}
 .heading {
   background-color: #b9b4c7 !important;
   border-top-left-radius: 1rem;
