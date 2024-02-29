@@ -8,4 +8,4 @@ Componente sencillo que combina vanilla JS, Bootstrap, y CSS.
     Contiene al menos 3 números
     Contiene mayúsculas y minúsculas
 
-![Image Alt text](assets/previewPC "Preview")
+![Image Alt text](assets/previewPC.png "Preview")
